@@ -1,2 +1,3 @@
 # demo
-this is first checking
+this is first checking phase 
+learning
